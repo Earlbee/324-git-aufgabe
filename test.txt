@@ -1,1 +1,4 @@
 Bash test
+
+
+aufgabe 3 punkt 3
